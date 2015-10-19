@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tweetdeck wrapper", "tweetdeck wrapper\tweetdeck wrapper.vbproj", "{4C4E1FEA-E61B-4BA5-B33D-D1CA5DF053B1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "setup\setup.vdproj", "{1B8F7EA7-56D3-4780-8430-80511E37FB25}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "uninstallActions", "uninstallActions\uninstallActions.vbproj", "{65358777-41EC-417C-8171-AC8465171331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4E1FEA-E61B-4BA5-B33D-D1CA5DF053B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4E1FEA-E61B-4BA5-B33D-D1CA5DF053B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4E1FEA-E61B-4BA5-B33D-D1CA5DF053B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4E1FEA-E61B-4BA5-B33D-D1CA5DF053B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8F7EA7-56D3-4780-8430-80511E37FB25}.Debug|Any CPU.ActiveCfg = Debug
+		{1B8F7EA7-56D3-4780-8430-80511E37FB25}.Release|Any CPU.ActiveCfg = Release
+		{65358777-41EC-417C-8171-AC8465171331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65358777-41EC-417C-8171-AC8465171331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65358777-41EC-417C-8171-AC8465171331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65358777-41EC-417C-8171-AC8465171331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\bin\Release\uninstallActions.exe.config
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\bin\Release\uninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\bin\Release\uninstallActions.pdb
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\bin\Release\uninstallActions.xml
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.xml
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.pdb
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeck wrapper\uninstallActions\obj\Release\uninstallActions.vbprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\bin\Release\uninstallActions.exe.config
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\bin\Release\uninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\bin\Release\uninstallActions.pdb
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\bin\Release\uninstallActions.xml
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\obj\Release\uninstallActions.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\obj\Release\uninstallActions.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\obj\Release\uninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\obj\Release\uninstallActions.xml
+C:\Users\erica\Documents\Visual Studio 2015\Projects\tweetdeckWrapper\uninstallActions\obj\Release\uninstallActions.pdb
